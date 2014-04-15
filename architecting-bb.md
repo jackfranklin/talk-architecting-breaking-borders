@@ -376,7 +376,7 @@ var shouldScrollToBeginning = function(carousel) {
 
 # Tell, don't ask
 
-This function refers to `carousel` three times. Is this the bes place for this code?
+This function refers to `carousel` three times. Is this the best place for this code?
 
 ---
 
