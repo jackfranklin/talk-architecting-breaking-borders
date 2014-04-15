@@ -1,12 +1,35 @@
 # Archictecting is Difficult
 
+---
+
 @Jack_Franklin
+
+- Student (for one more month) at University of Bath
+
+- (Soon to be a) developer for @GoCardless
+
+- Blogger at javascriptplayground.com, tilvim.com
+
+- Google Developer Expert on the Chrome team
+
+- Does a pretty epic Gangnam Style with @benmacgowan
 
 ---
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 -- Martin Fowler.
+
+---
+
+# Audience Participation
+
+^ hands up if you hate audience participation
+
+---
+
+![original 100%](tweet.png)
+
 
 ---
 
@@ -199,14 +222,6 @@ Some code which _may_ indicate a problem
 > You don't fix code smells. You look at them and see if they indicate a problem you can fix.
 
 -- Joe Ferris
-
----
-
-# Audience Participation
-
----
-
-![original 100%](tweet.png)
 
 ---
 
@@ -470,7 +485,15 @@ Functions should be _small_, _reusable_ and _composable_.
 ---
 
 ```js
-var carousel = function(width, height, images, arrowLeft, arrowRight, animationSpeed, loopBackOnEnd) {
+var carousel = function(
+    width,
+    height,
+    images,
+    arrowLeft,
+    arrowRight,
+    animationSpeed,
+    loopBackOnEnd
+) {
     ...
 }
 ```
@@ -526,10 +549,6 @@ Note: _better_. Not _best_.
 #todo REMOVE BEFORE PRODUCTION... SERIOUSLY!
 ```
 
-```ruby
-#todo: change once we have authentication
-```
-
 ---
 
 # They don't get done 
@@ -563,6 +582,7 @@ You can't get it right first time!
 
 - @Jack_Franklin
 - http://speakerdeck.com/jackfranklin
+- github.com/jackfranklin/talk-architecting-breaking-borders
 - http://javascriptplayground.com
 - http://refactoring.com/
 - http://robots.thoughtbot.com/
