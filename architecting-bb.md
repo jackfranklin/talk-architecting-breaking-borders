@@ -564,6 +564,8 @@ __243,803__ `#TODO` comments.
 1. Refactor to make the change easy.
 2. Make the change
 
+Each change should be easy to introduce. If it's not, refactor.
+
 ---
 
 # Refactor as you go
