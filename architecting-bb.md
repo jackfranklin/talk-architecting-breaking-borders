@@ -1,4 +1,4 @@
-# Archictecting is Difficult
+# Architecting is Difficult
 
 ---
 
